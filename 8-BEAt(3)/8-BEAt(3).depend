@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1511727855 source:c:\users\blake\desktop\8-beat(3)\src\bass.cpp
+	"Bass.h"
+
+1511727855 c:\users\blake\desktop\8-beat(3)\include\bass.h
+
+1511732013 source:c:\users\blake\desktop\8-beat(3)\main.cpp
+	<iostream>
+	"Bass3.h"
+	"Hat3.h"
+	"Snare3.h"
+	"SoundBar3.h"
+
+1511728966 c:\users\blake\desktop\8-beat(3)\include\bass3.h
+	<fstream>
+	<iostream>
+	<string>
+
+1511730906 source:c:\users\blake\desktop\8-beat(3)\src\bass3.cpp
+	"Bass3.h"
+	<iostream>
+	<string>
+
+1511730906 source:c:\users\blake\desktop\8-beat(3)\src\hat3.cpp
+	"Hat3.h"
+	<iostream>
+	<string>
+
+1511729584 c:\users\blake\desktop\8-beat(3)\include\hat3.h
+	<fstream>
+	<iostream>
+	<string>
+
+1511729933 c:\users\blake\desktop\8-beat(3)\include\snare3.h
+	<fstream>
+	<iostream>
+	<string>
+
+1511730906 source:c:\users\blake\desktop\8-beat(3)\src\snare3.cpp
+	"Snare3.h"
+
+1511731965 c:\users\blake\desktop\8-beat(3)\include\soundbar3.h
+	<iostream>
+	<string>
+
+1512162493 source:c:\users\blake\desktop\8-beat(3)\src\soundbar3.cpp
+	"SoundBar3.h"
+	<iostream>
+	<string>
+	<fstream>
+	<windows.h>
+	<mmsystem.h>
+
+1511767835 source:c:\users\blake\desktop\8-beat(3)\src\printlines.cpp
+	"PrintLines.h"
+
+1511767835 c:\users\blake\desktop\8-beat(3)\include\printlines.h
+
